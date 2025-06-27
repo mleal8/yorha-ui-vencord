@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/fonts/(.*)",
+      "source": "/font/(.*)",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
