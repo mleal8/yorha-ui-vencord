@@ -6,22 +6,14 @@
         {
           "key": "Access-Control-Allow-Origin",
           "value": "*"
-        },
-        {
-          "key": "Access-Control-Allow-Headers",
-          "value": "*"
         }
       ]
     },
     {
-      "source": "/cursors/(.*)",
+      "source": "/assets/(.*)",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        },
-        {
-          "key": "Access-Control-Allow-Headers",
           "value": "*"
         }
       ]
